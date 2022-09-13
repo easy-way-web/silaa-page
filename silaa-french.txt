@@ -1,0 +1,52 @@
+<!--========== HEADER ==========-->
+Home --> Accueil
+About --> À propos
+Services --> Services
+Special --> Special
+Contact us --> Contact
+
+<!--========== HOME ==========-->
+Silaa --> Silaa
+Manage your business --> Gérez votre business
+wherever you are. --> où que vous soyez.
+Learn more --> Détails
+
+<!--========== ABOUT ==========-->
+About Silaa --> À propos de Silaa
+Easy to use software --> Un logiciel facile d'utilisation
+Silaa will improve the management of your business. Saving time and money! --> Silaa saura améliorer la gestion de votre entreprise. Un gain de temps et d'argent!
+See features --> Quelques fonctionnalités
+
+<!--========== SERVICES ==========-->
+Offering --> Services
+Designed for your success --> Conçu pour votre réussite
+An intuitive cash register --> Une caisse intuitive
+A structure designed to facilitate the action of any task quickly. --> Un design conçue pour faciliter l'action de toute tâche rapidement.
+A tailor-made stock --> Un stock sur-mesure
+manage your different stocks intuitively. --> gérez vos différents stocks de manière intuitive.
+Accurate statistics --> Des statistiques précises
+A dedicated section to improve your sales performance. --> Une section dédiée pour améliorer vos performances de vente.
+
+<!--========== MENU ==========-->
+Special --> Special
+A dedicated setup --> Un environnement dédié
+Dedicated youtube channel --> Chaîne YouTube dédiée
+Tutorial available --> Tutoriel disponible
+Dedicated contact page --> Service client dédié
+Contact us anytime --> Contactez-nous à tout moment
+Dedicated server --> Serveur dédié
+Protecting your data is essential for us --> La protection de vos données est essentielle
+
+<!--===== APP =======-->
+App --> Silaa Android
+App is available --> disponible sur Play store
+Find our application and download it. Keep an eye on your business via your mobile/tablet. --> Téléchargez Silaa Pos sur Google Play. Gardez un œil sur votre entreprise via votre mobile/tablette.
+
+<!--========== CONTACT US ==========-->
+Let's talk --> Des questions?
+Contact us --> Contactez nous
+For more information or any questions, the Silaa team will be happy to answer you. --> Pour plus d'informations ou pour toute question, l'équipe Silaa se fera un plaisir de vous répondre.
+Contact us now --> Contact
+
+<!--========== FOOTER ==========-->
+Software --> Logiciel de vente et gestion
